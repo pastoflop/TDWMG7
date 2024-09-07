@@ -1,10 +1,10 @@
-=========================
+
   DOCUMENTACIÓN DEL PROYECTO
 =========================
 
 Nombre del proyecto: Menú de Restaurante Foodlalala - App en Flutter con Dart
 
-=========================
+
   INTRODUCCIÓN
 =========================
 
@@ -12,7 +12,7 @@ Esta es una aplicación móvil simple desarrollada en Flutter utilizando Dart, c
 Los usuarios pueden agregar, editar y modificar productos en el menú. Los datos se almacenan en una base de datos local que puede
 ser consultada y manipulada mediante una API interna.
 
-=========================
+
   FUNCIONALIDADES
 =========================
 
@@ -22,7 +22,7 @@ ser consultada y manipulada mediante una API interna.
 - Cambiar la disponibilidad de un producto utilizando un interruptor (switch).
 - Almacenar y recuperar productos en una base de datos local (simulada).
 
-=========================
+
   ESTRUCTURA DE LA APP
 =========================
 
@@ -48,7 +48,7 @@ La aplicación consta de los siguientes elementos principales:
    - Cuando se hace clic en un producto en la pantalla principal, se abre un diálogo que permite editar el nombre y el valor del producto.
    - Al guardar los cambios, estos se reflejan inmediatamente en la lista.
 
-=========================
+
   INSTRUCCIONES PARA USO
 =========================
 
@@ -65,7 +65,7 @@ La aplicación consta de los siguientes elementos principales:
 3. **Cambiar Disponibilidad**:
    - Utiliza el interruptor (switch) al lado de cada producto para cambiar su disponibilidad.
 
-=========================
+
   REQUISITOS
 =========================
 
@@ -73,7 +73,7 @@ La aplicación consta de los siguientes elementos principales:
 - Flutter SDK
 - Editor de código compatible (se utilizó Visual Studio Code en el desarrollo)
 
-=========================
+
   CÓMO EJECUTAR EL PROYECTO
 =========================
 
@@ -84,7 +84,7 @@ La aplicación consta de los siguientes elementos principales:
 5. Conecta un emulador o un dispositivo físico.
 6. Ejecuta `flutter run` para compilar y ejecutar la aplicación.
 
-=========================
+
   ARCHIVOS CLAVE
 =========================
 
@@ -93,7 +93,7 @@ La aplicación consta de los siguientes elementos principales:
 - **menu_api.dart**: API local que maneja la manipulación de datos en la base de datos (simulada).
 - **producto.dart**: Modelo de datos que representa un producto del menú.
 
-=========================
+
   CONCLUSIÓN
 =========================
 
