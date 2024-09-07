@@ -94,7 +94,7 @@ CÓMO EJECUTAR EL PROYECTO
 - **producto.dart**: Modelo de datos que representa un producto del menú.
 
 
-  CONCLUSIÓN
+CONCLUSIÓN
 =========================
 
 Este proyecto es un ejemplo básico pero completo de cómo gestionar un menú de restaurante usando Flutter. Incluye la funcionalidad 
