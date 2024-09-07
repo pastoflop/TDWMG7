@@ -74,7 +74,7 @@ La aplicación consta de los siguientes elementos principales:
 - Editor de código compatible (se utilizó Visual Studio Code en el desarrollo)
 
 
-  CÓMO EJECUTAR EL PROYECTO
+CÓMO EJECUTAR EL PROYECTO
 =========================
 
 1. Clona el proyecto o descarga el código fuente.
